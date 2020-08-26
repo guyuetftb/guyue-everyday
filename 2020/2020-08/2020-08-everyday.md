@@ -56,7 +56,6 @@
 
 ### 26
 1. 【运动】Tabata 5组。[极速燃脂瘦全身](http://xhslink.com/Nj66y) <br/>
-   <img width="300" src="https://github.com/guyuetftb/guyue-everyday/blob/master/img/2020/2020-08-24-tabata.jpeg"/>
    
 2. 【读书】1st 《情商-丹尼尔·戈尔曼》<br/>
 --------------------------------------------
