@@ -8,10 +8,9 @@
 
 ### 02
 1. 【运动】户外跑7公里; [1-21-01] <br/>
-<img width="300" src="https://github.com/guyuetftb/guyue-everyday/blob/master/img/2020/2020-09-92-running.jpeg"/>
+<img width="300" src="https://github.com/guyuetftb/guyue-everyday/blob/master/img/2020/2020-09-02-running.jpeg"/>
 
 2. 【运动】徒手俯卧撑10个;  [1-21-01] <br/>
-<img width="300" src="https://github.com/guyuetftb/guyue-everyday/blob/master/img/2020/2020-09-92-running.jpeg"/>
 
 3. 【读书】1st 《情商-丹尼尔·戈尔曼》. <br/>
 --------------------------------------------
