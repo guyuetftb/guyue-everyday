@@ -1,6 +1,6 @@
 ## 2020-10-everyday
 ### 2020-10-01
-1. 【运动】户外跑7公里; <br/>
+1. 【运动】户外跑 5.47 公里; <br/>
 <img width="300" src="https://github.com/guyuetftb/guyue-everyday/blob/master/img/2020/2020-10-01-running.jpeg"/>
 
 2. 【运动】徒手俯卧撑 36 个; <br/>
