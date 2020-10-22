@@ -130,10 +130,14 @@
 ### 2020-10-20
 1. 【运动】室内蛙泳 2000米 ; <br/>
 <img width="300" src="https://github.com/guyuetftb/guyue-everyday/blob/master/img/2020/2020-10-20-swimming.jpeg"/>
+
+2. 【学习】搭建开发机大数据环境。重新申请3台开发机，搭建 Hadoop, Hive环境。
 --------------------------------------------
 
 
 ### 2020-10-20
 1. 【运动】室内蛙泳 2000米 ; <br/>
 <img width="300" src="https://github.com/guyuetftb/guyue-everyday/blob/master/img/2020/2020-10-21-swimming.jpeg"/>
+
+2. 【学习】搭建开发机大数据环境。搭建 Zookeeper, Hbase, Kafka 环境。
 --------------------------------------------
