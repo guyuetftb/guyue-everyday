@@ -129,4 +129,11 @@
 
 ### 2020-10-20
 1. 【运动】室内蛙泳 2000米 ; <br/>
+<img width="300" src="https://github.com/guyuetftb/guyue-everyday/blob/master/img/2020/2020-10-20-swimming.jpeg"/>
+--------------------------------------------
+
+
+### 2020-10-20
+1. 【运动】室内蛙泳 2000米 ; <br/>
+<img width="300" src="https://github.com/guyuetftb/guyue-everyday/blob/master/img/2020/2020-10-21-swimming.jpeg"/>
 --------------------------------------------
